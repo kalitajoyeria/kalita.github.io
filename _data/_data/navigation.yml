@@ -1,12 +1,12 @@
-- name: Products
+- name: Tienda
   link: /
   new_window: false
   highlight: false
-- name: Our Story
+- name: Nosotros
   link: /about/
   new_window: false
   highlight: false
-- name: Contact
+- name: Escribenos
   link: /contact/
   new_window: false
   highlight: false

@@ -1,0 +1,23 @@
+I"�<hr />
+<p>name: Mariposa Calada
+description_markdown: &gt;-
+  Mariposa calada en tumbaga chapada de oro con borla de color verde con cadena</p>
+
+<p>Slim Fit, 5oz 100% Cotton T-Shirt.
+garment_type:
+price: ‘390.00’
+sku: mariposa
+stock: 2
+sizes:</p>
+<ul>
+  <li>Mediano
+styles:</li>
+  <li>name: Borla colores
+color: ‘#000000’
+image: /images/products/mariposa1/mariposa1.jpg</li>
+  <li>name: Borla verde
+color: ‘#39589e’
+image: /images/products/mariposa2r/mariposa2.jpg
+ —</li>
+</ul>
+:ET

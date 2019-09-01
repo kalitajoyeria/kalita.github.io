@@ -1,0 +1,20 @@
+I"�<hr />
+<p>name: Bordado pequeño en escuadra
+description_markdown: &gt;-
+  Cuadrillé pequeño en escuadradra bordado a dos colores con cadena</p>
+
+<p>garment_type:
+price: ‘265.00’
+sku: bordado mediano
+stock: 1
+sizes:</p>
+<ul>
+  <li>Pequeño
+styles:</li>
+  <li>name: Azul, rosa, verde y amarillo
+color: ‘#000000’
+image: /images/products/miniboresc1/miniboresc1.jpg</li>
+</ul>
+
+<hr />
+:ET

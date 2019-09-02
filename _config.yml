@@ -6,7 +6,7 @@ url: "https://kalitajoyeria.github.io/"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key: "AIzaSyA6CCb6C5VIoDzokWy5XjK-mb4yd9OenmU"
-snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
+snipcart_key: "MmM0ZjUyMGEtYmQ1ZS00MGYxLTkxN2EtYjU3YTA3ZGI0YjFmNjM3MDI3Njc3NDYyNzQ2Mjc2"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png

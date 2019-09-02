@@ -19,7 +19,7 @@ sizes:
 styles:
   - name: Black
     color: '#000000'
-    image: /images/products/deer/black.jpg
+    image: /images/products/deer/black.png
   - name: Blue
     color: '#39589e'
     image: /images/products/deer/blue.jpg

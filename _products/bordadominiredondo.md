@@ -5,7 +5,7 @@ description_markdown: >-
 
   
 garment_type:
-price: '430.00'
+price: '265.00'
 sku: bordadominiredondo
 stock: 3
 sizes:

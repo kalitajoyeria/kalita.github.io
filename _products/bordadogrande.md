@@ -12,7 +12,7 @@ sizes:
   - Unico
 styles:
   - name: Uno
-    color: '#184A6F'
+    color: '#249C6D'
     image: /images/products/bordadogrande/bordadogrande1.png
  
 ---

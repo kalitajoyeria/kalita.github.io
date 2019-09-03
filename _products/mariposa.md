@@ -17,5 +17,5 @@ styles:
     image: /images/products/mariposa/mariposa1.png
   - name: Verde
     color: '#243518'
-    image: /images/products/mariposa1/mariposa2.png
+    image: /images/products/mariposa/mariposa2.png
 ---

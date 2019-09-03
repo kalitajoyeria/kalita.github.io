@@ -10,7 +10,7 @@ sku: calaveraborla
 description: calavera calada con borla
 stock: 1
 sizes:
-  - Mediano
+    - Medium
 styles:
   - name: Uno
     color: '#184A6F'

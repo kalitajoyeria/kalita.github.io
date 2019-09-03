@@ -11,7 +11,7 @@ sku: mariposa
 description: mariposa calada con borla
 stock: 2
 sizes:
-  - Mediano
+   - Medium
 styles:
   - name: Arcoiris
     color: '#00f6cb'

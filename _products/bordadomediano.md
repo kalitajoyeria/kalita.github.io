@@ -10,7 +10,7 @@ sku: bordadomediano
 description: bordado mediano
 stock: 2
 sizes:
-  - Mediano
+   - Medium
 styles:
   - name: Uno
     color: '#C15D5D'

@@ -10,7 +10,7 @@ sku: bordadogrande
 description: bordado grande
 stock: 5
 sizes:
-  - Grande
+  - Medium
 styles:
   - name: Uno
     color: '#249C6D'

@@ -10,7 +10,7 @@ sku: calavera
 description: calavera calada
 stock: 3
 sizes:
-  - Mediano
+    - Medium
 styles:
   - name: Uno
     color: '#F1EC97'

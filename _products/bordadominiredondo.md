@@ -10,7 +10,7 @@ sku: bordadominiredondo
 description: bordado mini redondo
 stock: 3
 sizes:
-  - Pequeño
+   - Medium
 styles:
   - name: Uno
     color: '#842326'

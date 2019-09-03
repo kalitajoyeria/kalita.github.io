@@ -10,7 +10,7 @@ sku: bordadominicuadrado
 description: bordado mini cuadrado
 stock: 2
 sizes:
-  - Pequeño
+    - Medium
 styles:
   - name: Uno
     color: '#1E2576'

@@ -5,12 +5,13 @@ description_markdown: >-
   de diferentes colores
 
   
-garment_type:
+garment_type: top
 price: '390.00'
 sku: mariposa
+description: mariposa calada con borla
 stock: 2
 sizes:
-  - Unico
+  - Mediano
 styles:
   - name: Arcoiris
     color: '#00f6cb'

@@ -4,12 +4,13 @@ description_markdown: >-
   Calavera tradicional calada en tumbaga con chapa de oro con su cadena en chapa de oro
 
   
-garment_type:
+garment_type: top
 price: '370.00'
 sku: calavera
+description: calavera calada
 stock: 3
 sizes:
-  - Unico
+  - Mediano
 styles:
   - name: Uno
     color: '#F1EC97'

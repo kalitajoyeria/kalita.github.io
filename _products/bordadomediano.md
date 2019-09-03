@@ -4,12 +4,13 @@ description_markdown: >-
   Cuadrillé tradicional en tumbaga con capa de oro, bordado a mano con hilaza de algodón
 
   
-garment_type:
+garment_type: top
 price: '430.00'
 sku: bordadomediano
+description: bordado mediano
 stock: 2
 sizes:
-  - Unico
+  - Mediano
 styles:
   - name: Uno
     color: '#C15D5D'

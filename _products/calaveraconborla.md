@@ -6,7 +6,7 @@ description_markdown: >-
   
 garment_type:
 price: '430.00'
-sku: calavera
+sku: calaveraborla
 stock: 1
 sizes:
   - Unico

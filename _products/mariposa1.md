@@ -1,16 +1,15 @@
 ---
-name: Sacha the Deer
+name: Mariposa Calada
 description_markdown: >-
-  Sacha's elegant antlers have never been seen on such a beautiful t-shirt. Wear
-  this majestic beast and feel all your problems float away.
-
-
-
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+  Mariposa calada en tumbaga con chapa de oro, semeja el papel calado
+  Con cadena tambié chapad en oro y la borla de hilaza 
+  
+  
+  
 garment_type:
-price: '9.00'
-sku: deer
-stock: 10
+price: '390.00'
+sku: mariposa
+stock: 2
 sizes:
   - Small
   - Medium
@@ -19,14 +18,8 @@ sizes:
 styles:
   - name: Black
     color: '#000000'
-    image: /images/products/deer/black.jpg
+    image: /images/products/mariposa1/mariposa1.png
   - name: Blue
     color: '#39589e'
-    image: /images/products/deer/blue.jpg
-  - name: Clay
-    color: '#9c5145'
-    image: /images/products/deer/clay.jpg
-  - name: Cream
-    color: '#dfd3c2'
-    image: /images/products/deer/cream.jpg
+    image: /images/products/mariposa1/mariposa2.png
 ---

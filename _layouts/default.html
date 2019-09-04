@@ -37,22 +37,35 @@
 				{% include navigation.html %}
 			<img src="https://kalitajoyeria.github.io/fondo.JPG" alt="Kaita logo">
 			</div>
-
 			<section class="hero">
-			 
-       	<div class="text-container">
-				  	
-					{% if page.hero %}
+	 
+       	
+			 	<div class="image-box">
+         <div 
+             class="image-box__background" 
+             style="--image-url: url('https://kalitajoyeria.github.io/fondo.JPG')">
+           
+         </div>
+         <div class="image-box__overlay"></div>
+           <div class="image-box__content">
+            {% if page.hero %}
 						<h2>{{ page.hero }}</h2>
-					{% elsif page.name %}
+					  {% elsif page.name %}
 						<h2>{{ page.name }}</h2>
-					{% endif %}
-
-					{% if page.subtitle %}
+				  	{% endif %}
+				  	{% if page.subtitle %}
 						<p>{{ page.subtitle }}</p>
-					{% endif %}
-				</div>
+				  	{% endif %}
+          </div>
+        </div>
+			
+			
+			
+			
 			</section>
+			
+			
+			
 		</header>
 		{{ content }}
 		<footer>
@@ -60,7 +73,7 @@
 				<ul class="footer-columns">
 					<li class="about">
 						<div class="company-name">{% include logo.html %} <span>{{ site.title }}</span></div>
-						<p class="editable">Los diseños de Kalita combinan la identidat cultural mexicana con los materiales y técnicas actuales del diseño, fusiona los saberes artesanales tradicionales con la moda actual y de vanguardia.</p>
+						<p class="editable">Los diseños de Kalita combinan la identidad cultural mexicana con los materiales y técnicas actuales del diseño, y así logra fusionar los saberes artesanales tradicionales con la moda actual y de vanguardia.</p>
 					</li>
 
 					<li class="footer-nav">

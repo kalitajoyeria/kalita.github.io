@@ -22,15 +22,15 @@
 	text-align: center;
 	position: relative;
 	z-index: 99;
-	h3 {
+	h4 {
 		font-size: 2rem;
 		line-height: .5;
 		font-weight: bold;
 	}
 
 	@media (min-width: 500px) {
-		h3 {
-			font-size: 3.5rem;
+		h4 {
+			font-size: 2rem;
 		}
 	}
 

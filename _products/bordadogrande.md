@@ -12,7 +12,7 @@ stock: 5
 sizes:
   - Medium
 styles:
-  - name: Uno
+  - name: Azul
     color: '#249C6D'
     image: /images/products/bordadogrande/bordadogrande1.png
 ---

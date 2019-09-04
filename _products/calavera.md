@@ -12,13 +12,13 @@ stock: 3
 sizes:
     - Medium
 styles:
-  - name: Uno
+  - name: Circulo
     color: '#F1EC97'
     image: /images/products/calavera/calavera1.png
-  - name: Dos
+  - name: Flor
     color: '#303E24'
     image: /images/products/calavera/calavera2.png
-  - name: Tres
+  - name: Corazon
     color: '#F7DF90'
     image: /images/products/calavera/calavera3.png
 ---

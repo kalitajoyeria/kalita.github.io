@@ -12,13 +12,13 @@ stock: 3
 sizes:
    - Medium
 styles:
-  - name: Uno
+  - name: Ocre
     color: '#842326'
     image: /images/products/bordadominiredondo/bordadominiredondo1.png
-  - name: Dos
+  - name: Verde
     color: '#1A633E'
     image: /images/products/bordadominiredondo/bordadominiredondo2.png
-  - name: Tres
+  - name: Naranja
     color: '#E28B4D'
     image: /images/products/bordadominiredondo/bordadominiredondo3.png
  

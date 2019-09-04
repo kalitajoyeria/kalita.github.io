@@ -12,10 +12,10 @@ stock: 2
 sizes:
    - Medium
 styles:
-  - name: Uno
+  - name: Rojo
     color: '#C15D5D'
     image: /images/products/bordadomediano/bordadomediano1.png
-  - name: Dos
+  - name: Rosa
     color: '#D5A38E'
     image: /images/products/bordadomediano/bordadomediano2.png
  

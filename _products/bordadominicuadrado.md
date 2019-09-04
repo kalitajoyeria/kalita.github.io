@@ -12,10 +12,10 @@ stock: 2
 sizes:
     - Medium
 styles:
-  - name: Uno
+  - name: Azul
     color: '#1E2576'
     image: /images/products/bordadominicuadrado/bordadominicuadrado1.png
-  - name: Dos
+  - name: Ocre
     color: '#460700'
     image: /images/products/bordadominicuadrado/bordadominicuadrado2.png
 ---

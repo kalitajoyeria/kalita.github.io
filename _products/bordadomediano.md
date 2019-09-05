@@ -1,7 +1,6 @@
 ---
 name: Cuadrillé de bordado mediano
 description_markdown: >-
-  Cuadrillé tradicional en tumbaga con capa de oro, bordado a mano con hilaza de algodón
 
   
 garment_type: top

@@ -1,9 +1,6 @@
 ---
 name: Mariposa Calada
 description_markdown: >-
-  Mariposa calada en tumbaga con chapa de oro con su cadena en chapa de oro y borla de hilaza
-  de diferentes colores
-
   
 garment_type: top
 price: '390.00'

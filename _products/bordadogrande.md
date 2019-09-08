@@ -1,8 +1,6 @@
 ---
 name: Cuadrillé de bordado grande
 description_markdown: >-
-
-  
 garment_type: top
 price: '485.00'
 sku: bordadogrande

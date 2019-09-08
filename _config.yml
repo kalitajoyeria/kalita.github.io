@@ -2,7 +2,7 @@
 # Site
 
 title: Kalita
-url: "https://kalitajoyeria.github.io/"
+url: "https://kalitajoyeria.com/"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key: "AIzaSyA6CCb6C5VIoDzokWy5XjK-mb4yd9OenmU"
@@ -19,7 +19,7 @@ author:
 social:
   name: Kalita
   links:
-    - https://github.com/kalitajoyeria/kalitajoyeria.github.io
+    - https://kalitajoyeria.com
 
 
 # -----

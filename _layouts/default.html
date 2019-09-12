@@ -41,7 +41,7 @@
 			 
        	<div class="text-container">
 					{% if figure.url %}
-						<h2>{{ page.hero }}</h2>
+						<img src="{{ figure.url }}" alt={{ figure.alt }}">
 					{% elsif page.name %}
 						<h2>{{ page.name }}</h2>
 					{% endif %}

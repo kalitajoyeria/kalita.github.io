@@ -43,7 +43,14 @@
        	                <div class="text-container">
 					                                      
 	                                <img src="{{ figure.url }}" alt={{ figure.alt }}">
-					
+				{% if page.hero %}
+						<h2>{{ page.hero }}</h2>
+					{% elsif page.name %}
+						<h2>{{ page.name }}</h2>
+					{% endif %}
+					{% if page.subtitle %}
+						<p>{{ page.subtitle }}</p>
+					{% endif %}	
 					
 			</div>
 			</section>

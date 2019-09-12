@@ -37,24 +37,20 @@
 				{% include navigation.html %}
 			<img src="https://kalitajoyeria.github.io/fondo.JPG" alt="Kaita logo">
 			</div>
-			
 			<section class="hero">
 			 
-       	                <div class="text-container">
-					                                      
-	                                
-				        {% if page.hero %}
+       	<div class="text-container">
+					{% if page.hero %}
 						<h2>{{ page.hero }}</h2>
 					{% elsif page.name %}
 						<h2>{{ page.name }}</h2>
 					{% endif %}
 					{% if page.subtitle %}
 						<p>{{ page.subtitle }}</p>
-					{% endif %}	
-					
-			</div>
+					{% endif %}
+				</div>
 			</section>
-			
+
 		</header>
 		{{ content }}
 		<footer>

@@ -35,16 +35,16 @@
 			<div class="container">
 				<div class="company-name"><a href="{{ site.baseurl }}/">{% include logo.html %} <span>{{ site.title }}</span></a></div>
 				{% include navigation.html %}
-			<img src="https://kalitajoyeria.github.io/fondo.JPG" alt="Kaita logo">
+			
+					{% if page.title == "Nosotros" %}
+						<img src="https://kalitajoyeria.github.io/fondo2.JPG" alt="Kaita logo">
+					{% endif %}
 			</div>
 			
 			<section class="hero">
 			 
        	<div class="text-container">
-					{% if page.title == "Nosotros" %}
-						<img src="https://kalitajoyeria.github.io/fondo2.JPG" alt="Kaita logo">
-					{% endif %}
-
+					
 					{% if page.hero %}
 						<h2>{{ page.hero }}</h2>
 					{% elsif page.name %}

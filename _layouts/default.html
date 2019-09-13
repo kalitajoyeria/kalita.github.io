@@ -30,6 +30,9 @@
                        <div class="container">
 				<div class="company-name"><a href="{{ site.baseurl }}/">{% include logo.html %} <span>{{ site.title }}</span></a></div>
 				{% include navigation.html %}
+                                        {% if page.title == "Kalita Joyeria" %}
+						<img src="https://kalitajoyeria.github.io/fondo.JPG" alt="Fondo Nosotros">
+				        {% endif %}
 			   		{% if page.title == "Nosotros" %}
 						<img src="https://kalitajoyeria.github.io/fondo3.JPG" alt="Fondo Nosotros">
 					{% endif %}

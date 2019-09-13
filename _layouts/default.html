@@ -35,10 +35,20 @@
 			<div class="container">
 				<div class="company-name"><a href="{{ site.baseurl }}/">{% include logo.html %} <span>{{ site.title }}</span></a></div>
 				{% include navigation.html %}
-			
-					{% if page.title == "Nosotros" %}
-						<img src="https://kalitajoyeria.github.io/fondo2.JPG" alt="Kaita logo">
+			                {% if page.title == "Kalita" %}
+						<img src="https://kalitajoyeria.github.io/fondo.JPG" alt="Fondo inicio">
 					{% endif %}
+                                        {% if page.title == "Tienda" %}
+						<img src="https://kalitajoyeria.github.io/fondo2.JPG" alt="Fondo tienda">
+					{% endif %}
+					{% if page.title == "Nosotros" %}
+						<img src="https://kalitajoyeria.github.io/fondo3.JPG" alt="Fondo Nosotros">
+					{% endif %}
+                                        {% if page.title == "Contact" %}
+						<img src="https://kalitajoyeria.github.io/fondo7.JPG" alt="Fondo Escribenos">
+					{% endif %}
+
+
 			</div>
 			
 			<section class="hero">

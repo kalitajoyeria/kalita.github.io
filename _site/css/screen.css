@@ -43,7 +43,7 @@ ul { padding-left: 1em; }
 
 .hero p { color: #fff; }
 
-.content { background: #000000; padding: 1px 0 0 0; position: relative; }
+.content { background: #fff; padding: 1px 0 0 0; position: relative; }
 
 .company-name { display: inline-block; position: relative; top: 4px; }
 

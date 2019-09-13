@@ -204,7 +204,7 @@ header p { margin: 0; }
   header:before { transform: skewX(-15deg); box-shadow: 99px 29px 170px -24px rgba(0, 0, 0, 0.05); top: -254px; bottom: 50%; left: 43%; }
   header:after { box-shadow: inset 92px -41px 104px -28px rgba(0, 0, 0, 0.05); transform: skewX(-12deg); top: 47%; left: 40%; bottom: -121px; } }
 
-header a { color: #fff; text-decoration: none; z-index: 1; position: relative; }
+header a { color: #000; text-decoration: none; z-index: 1; position: relative; }
 
 header a:hover { text-decoration: none; }
 

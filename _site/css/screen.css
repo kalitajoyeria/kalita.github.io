@@ -196,7 +196,7 @@ input[type=text]:focus, input[type=email]:focus, input[type=password]:focus, tex
 @media (max-width: 849px) { .nav-open nav { border: 0; z-index: 2; }
   .nav-open nav a { display: block; } }
 
-header { color: #000000; padding: 20px 0 59px 0; background: linear-gradient(135deg, #000000 0%, #000000 100%); position: relative; }
+header { color: #fff; padding: 20px 0 59px 0; background: linear-gradient(135deg, #000000 0%, #000000 100%); position: relative; }
 
 header p { margin: 0; }
 
@@ -204,7 +204,7 @@ header p { margin: 0; }
   header:before { transform: skewX(-15deg); box-shadow: 99px 29px 170px -24px rgba(0, 0, 0, 0.05); top: -254px; bottom: 50%; left: 43%; }
   header:after { box-shadow: inset 92px -41px 104px -28px rgba(0, 0, 0, 0.05); transform: skewX(-12deg); top: 47%; left: 40%; bottom: -121px; } }
 
-header a { color: #000000; text-decoration: none; z-index: 1; position: relative; }
+header a { color: #fff; text-decoration: none; z-index: 1; position: relative; }
 
 header a:hover { text-decoration: none; }
 
@@ -222,7 +222,7 @@ nav a.nav-toggle { display: inline; position: absolute; right: 0; top: -22px; fo
 
 nav a.nav-toggle:hover { border: 0; }
 
-nav a:hover { color: #000000; }
+nav a:hover { color: #fff; }
 
 nav a.cart { line-height: 1; }
 
@@ -230,10 +230,10 @@ nav a.cart i { font-size: 22px; line-height: 1; display: inline-block; vertical-
 
 nav a.cart span { display: inline-block; vertical-align: middle; position: relative; top: 2px; }
 
-@media (min-width: 850px) { nav a.cart { border-radius: 43px; color: #000000; border: 1px solid rgba(255, 255, 255, 0.4); position: absolute; right: 20px; top: -2px; font-size: .8em; transition: border .3s ease; }
-  nav a.cart:hover { border-color: #000000; } }
+@media (min-width: 850px) { nav a.cart { border-radius: 43px; color: #fff; border: 1px solid rgba(255, 255, 255, 0.4); position: absolute; right: 20px; top: -2px; font-size: .8em; transition: border .3s ease; }
+  nav a.cart:hover { border-color: #fff; } }
 
-nav a.active { color: #000000; }
+nav a.active { color: #fff; }
 
 footer { padding: 50px 0 50px 0; font-size: 1.1 0.1rem; position: relative; border: 1px solid #eee; }
 

@@ -1,8 +1,6 @@
 <nav>
 	<a class="nav-toggle" id="open-nav" href="#">&#9776;</a>
-	<body style="background-color: lightblue;">
-         </body>
-         {% for link in site.data.navigation %}
+	{% for link in site.data.navigation %}
 		{% assign class = "" %}
 		{% if link.highlight %}
 			{% assign class = class | append: " highlight" %}

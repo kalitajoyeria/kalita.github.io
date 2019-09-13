@@ -26,7 +26,8 @@
 		{% if site.snipcart_key %}
 			<script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="{{ site.snipcart_key }}"></script>
 		{% endif %}
-<                      div class="container">
+                       <header>
+                       <div class="container">
 				<div class="company-name"><a href="{{ site.baseurl }}/">{% include logo.html %} <span>{{ site.title }}</span></a></div>
 				{% include navigation.html %}
 			   		{% if page.title == "Nosotros" %}
@@ -36,10 +37,11 @@
 						<img src="https://kalitajoyeria.github.io/fondo7.JPG" alt="Fondo Escribenos">
 					{% endif %}
                         </div>
+                      </header>
 	</head>
 	
 	<body>
-		 
+		
 		{{ content }}
 		<footer>
 			<div class="container">

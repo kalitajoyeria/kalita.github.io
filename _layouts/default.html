@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 
 <html lang="en">
 	<head>
@@ -41,6 +41,10 @@
 			<section class="hero">
 			 
        	<div class="text-container">
+					{% if page.title == "Nosotros" %}
+						<img src="https://kalitajoyeria.github.io/fondo2.JPG" alt="Kaita logo">
+					{% endif %}
+
 					{% if page.hero %}
 						<h2>{{ page.hero }}</h2>
 					{% elsif page.name %}

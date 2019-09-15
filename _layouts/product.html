@@ -7,16 +7,18 @@ layout: default
                <div class="container">
                
 			<div class="product-container">
-                         <body style="background-color: black;">	
+                         	
                         {% include product-styles.html product=page %}
+                           <body style="background-color: black;">
 				<div class="product-details" id="add">
 					<h3>{{ page.name }}</h3>
 					{{ page.description_markdown | markdownify }}
 
 					<h4>${{ page.price }}</h4>
 					<div class="button">{% include snipcart-button.html product=page %}</div>
-				</div>
-                         </body>
+				
+                                </div>
+                           </body>
 			 </div>
 		
                </div>

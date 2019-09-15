@@ -11,13 +11,13 @@ layout: default
                         {% include product-styles.html product=page %}
                            
 				<div class="product-details" id="add">
-                                         <body style="background-color: black;">
+                                       
 					<h3>{{ page.name }}</h3>
 					{{ page.description_markdown | markdownify }}
 
 					<h4>${{ page.price }}</h4>
 					<div class="button">{% include snipcart-button.html product=page %}</div>
-				</body>
+				
                                 </div>
                            
 			 </div>

@@ -83,7 +83,7 @@ blockquote .quote:after { content: close-quote; }
 
 .thirds div { flex: 1 1 200px; padding: 100px 40px 0 40px; }
 
-.styles { width: 100%; background: #eeeeee; position: relative; padding: 20px; box-sizing: border-box; border-radius: 3px; }
+.styles { width: 100%; background: #731F09; position: relative; padding: 20px; box-sizing: border-box; border-radius: 3px; }
 
 .styles .style-picker { z-index: 2; display: block; line-height: 0; position: absolute; bottom: 20px; right: 20px; }
 

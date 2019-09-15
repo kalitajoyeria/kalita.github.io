@@ -1,3 +1,4 @@
+<body style="background-color: black;">
 <div class="styles">
 	{% for style in include.product.styles %}
 		<div class="style" data-item-id="{{ forloop.index }}" {% unless forloop.first %}style="display: none"{% endunless %}>
@@ -13,3 +14,4 @@
 		{% endfor %}
 	</div>
 </div>
+</body>

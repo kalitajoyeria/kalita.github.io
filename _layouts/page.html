@@ -3,13 +3,14 @@ layout: default
 ---
 <div class="content">
 	<section class="page">
-<style>
-body {
-   background-color: #A19F98;
-}
-</style>
+
 		<div class="container {% if page.full_width %}max-container{% endif %}">
-			{{ content }}
+			<style>
+                           body {
+                           background-color: #A19F98;
+                                }
+                         </style>
+                  {{ content }}
 		</div>
 	</section>
 </div>

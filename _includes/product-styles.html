@@ -1,11 +1,13 @@
 
 <div class="styles">
-        <body style="background-color: black;">
+       
 	{% for style in include.product.styles %}
 		<div class="style" data-item-id="{{ forloop.index }}" {% unless forloop.first %}style="display: none"{% endunless %}>
-			<a href="{{ include.product.url }}">
+		 <body style="background-color: black;">	
+                 <a href="{{ include.product.url }}">
 				<img src="{{ site.baseurl }}{{ style.image }}">
 			</a>
+                </body>
 		</div>
 	{% endfor %}
 
@@ -14,5 +16,5 @@
 			<div style="background-color: {{ style.color }}" data-item-id="{{ forloop.index }}"></div>
 		{% endfor %}
 	</div>
-</body>
+
 </div>

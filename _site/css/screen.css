@@ -196,7 +196,7 @@ input[type=text]:focus, input[type=email]:focus, input[type=password]:focus, tex
 @media (max-width: 849px) { .nav-open nav { border: 0; z-index: 2; }
   .nav-open nav a { display: block; } }
 
-header { color: #000000; padding: 20px 0 59px 0; background: linear-gradient(135deg, #FFFFFF 0%, #FFFFFF 100%); position: relative; }
+header { color: #000000; padding: 20px 0 59px 0; background: linear-gradient(135deg, #FFFFFF 0%, #A19F98 100%); position: relative; }
 
 header p { margin: 0; }
 

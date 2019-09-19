@@ -119,9 +119,9 @@ blockquote .quote:after { content: close-quote; }
 
 .product-list .product-description p { font-size: 1.1rem; }
 
-.product-list .snipcart-add-item { -webkit-appearance: none; background-color: #bd3891; color: #222; text-decoration: none; border: 0; background: none; font-weight: bold; font-size: 1.2em; padding: 10px 15px 15px; float: right; cursor: pointer; line-height: 1; margin-top: 10px; }
+.product-list .snipcart-add-item { -webkit-appearance: none; background-color: transparent; border: 1px solid #ffffff; color: #ffffff; text-decoration: none; font-weight: bold; font-size: 1.2em; padding: 10px 15px 15px; float: right; cursor: pointer; line-height: 1; margin-top: 10px; }
 
-.product-list .snipcart-add-item:hover { background: #f5f5f5; color: #000; }
+.product-list .snipcart-add-item:hover { background-color: none; color: red; }
 
 .staff-image { margin: 25px auto 0 auto; background: no-repeat center center; background-size: cover; border-radius: 300px; width: 70%; padding-bottom: 70%; }
 

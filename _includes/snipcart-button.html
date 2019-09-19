@@ -4,7 +4,8 @@
 {% endfor %}
 {% assign colors = colors | remove_first: '|' %}
 <button class="snipcart-add-item"
-	data-item-name="{{ include.product.name }}"
+	<body style="background-color: black;">
+        data-item-name="{{ include.product.name }}"
 	data-item-id="{{ include.product.sku }}"
 	data-item-image="{{ include.product.styles.first.image }}"
 	data-item-description="{{ include.product.description }}"
@@ -15,5 +16,6 @@
 	data-item-custom2-options="{{ colors }}"
 	data-item-url="{{ include.product.url }}"
 	data-item-price="{{ include.product.price }}">
-	{% if include.text %}{{ include.text }}{% else %}Ponlo en el carrito{% endif %}
+	{% if include.text %}{{ include.text }}{% else %}echalo al carrito{% endif %}
+        </body>
 </button>

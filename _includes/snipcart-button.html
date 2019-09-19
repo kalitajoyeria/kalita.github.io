@@ -1,4 +1,3 @@
-<body style="background-color: black;">
 {% assign colors = "" %}
 {% for style in include.product.styles %}
 	{% assign colors = colors | append: '|' | append: style.name %}
@@ -18,4 +17,3 @@
 	data-item-price="{{ include.product.price }}">
 	{% if include.text %}{{ include.text }}{% else %}Echalo al carrito{% endif %}
  </button>
-</body>

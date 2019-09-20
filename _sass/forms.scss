@@ -13,7 +13,7 @@ input[type=submit] {
 .button a:hover,
 .button button:hover,
 input[type=submit]:hover {
-	background: darken($brand-color, 10%);
+	background: lighten($brand-color-3, 80%);
 	cursor: pointer;
 }
 

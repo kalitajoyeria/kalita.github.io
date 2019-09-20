@@ -161,7 +161,7 @@ blockquote .quote:after { content: close-quote; }
 
 .button a, .button button, input[type=submit] { color: #fff; text-decoration: none; padding: 15px 30px; background: #000000; border-radius: 3px; border: 1px solid white; -webkit-appearance: none; }
 
-.button a:hover, .button button:hover, input[type=submit]:hover { background: #e6e6e6; cursor: pointer; }
+.button a:hover, .button button:hover, input[type=submit]:hover { background: #cccccc; cursor: pointer; }
 
 .button a:active, .button button:active, input[type=submit]:active { border-width: 1px; border-top: 3px solid transparent; }
 

@@ -50,6 +50,7 @@
 		flex: 2 1 500px;
 		text-align: left;
 		margin-left: 40px;
+                background-color: coral;
                 
 		h4 {
 			color: $brand-color-3;
@@ -99,7 +100,7 @@
 		font-size: 1.1rem;
 	}
 
-	.snipcart-add-item {
+.snipcart-add-item {
 		-webkit-appearance: none;
 		color: #222;
 		text-decoration: none;

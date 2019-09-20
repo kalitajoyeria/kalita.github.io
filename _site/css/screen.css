@@ -5,7 +5,7 @@ html, body { margin: 0; padding: 0; }
 
 body { font-family: "calibri","San Francisco", "Helvetica Neue", "Helvetica", "Arial"; -webkit-font-smoothing: antialiased; }
 
-a { color: #FFFFFF; text-decoration: none; }
+a { color: #000000; text-decoration: none; }
 
 a:hover { text-decoration: underline; }
 
@@ -97,7 +97,7 @@ blockquote .quote:after { content: close-quote; }
 
 .product-container .styles { width: auto; flex: 1 1 300px; margin-left: 40px; }
 
-.product-container .product-details { flex: 2 1 500px; text-align: left; margin-left: 40px; background-color: coral; }
+.product-container .product-details { flex: 2 1 500px; text-align: left; margin-left: 40px; }
 
 .product-container .product-details h4 { color: #000000; }
 

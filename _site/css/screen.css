@@ -5,7 +5,7 @@ html, body { margin: 0; padding: 0; }
 
 body { font-family: "calibri","San Francisco", "Helvetica Neue", "Helvetica", "Arial"; -webkit-font-smoothing: antialiased; }
 
-a { color: #000000; text-decoration: none; }
+a { color: #FFFFFF; text-decoration: none; }
 
 a:hover { text-decoration: underline; }
 
@@ -159,7 +159,7 @@ blockquote .quote:after { content: close-quote; }
 
 .contact-box .contact-details a { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: block; }
 
-.button a, .button button, input[type=submit] { color: #fff; text-decoration: none; padding: 15px 30px; background: #FFFFFF; border-radius: 3px; border: 1px solid white; -webkit-appearance: none; }
+.button a, .button button, input[type=submit] { color: #fff; text-decoration: none; padding: 15px 30px; background: #000000; border-radius: 3px; border: 1px solid white; -webkit-appearance: none; }
 
 .button a:hover, .button button:hover, input[type=submit]:hover { background: #e6e6e6; cursor: pointer; }
 

@@ -137,8 +137,6 @@ blockquote .quote:after { content: close-quote; }
 
 .staff .position { font-size: 1.3rem; color: #666; }
 
-.staff .description { font-size: 0.5rem; margin-top: 20px; }
-
 .story-points h3 { font-size: 1.3rem; margin: 0; color: #FFFFFF; }
 
 .map { height: 499px; border: 1px solid #DDDDDD; border-radius: 3px; }

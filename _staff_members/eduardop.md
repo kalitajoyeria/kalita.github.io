@@ -1,4 +1,4 @@
 ---
-name: Eduardo Prince
-image_path: https://scontent.ftrc2-1.fna.fbcdn.net/v/t1.0-9/3705_1644918692426498_4468069906464101672_n.jpg?_nc_cat=102&_nc_oc=AQlZGHgNXrgDSDy3h_ZFSdztkr7uzdx5xYyD25jt0R-UHEs7gftRWnoAFS-t2HoURB4&_nc_ht=scontent.ftrc2-1.fna&oh=d49ebbce0e499795a13a04e8b6a2dfe7&oe=5E0C96E0
+name: Bordado cuadrado
+image_path: https://www.facebook.com/kalitajoyeria/photos/a.1565042500425741/2327806690815981/?type=3&eid=ARCDUhxYAAt0fsuYmvt7xOL2rHlKM7mfexZzBVO0kfn7GvxMOaJZ-0OfUusDU689_1-dx99MuYzfKdbh&__xts__%5B0%5D=68.ARCbfbkI5szCjuczXXJI8EMLlo8ePP8MizWOdLIUK3i_SGRVpRfsMWJeFid-mHrsvb8eDU8DEVbGMakweJowYzSX-UP6BwtPgG-f9o0nxRNIEX6hVRjEy08TVRR14BjEDLkdv_ZpGRU2ji86CCIU_SoHy6myM-UCvuFmI8d8BwTXy73OzTyqkXguUJl9gURYnCh2SVa54YRbHzX-VRDRjsdsRn7_AIEPq8J--09rq37bBhE4zdsl0xNzL7NuXoz5OO4jQ4OeDK7CHjy8835Ne3ig5RRO3zl7FOBiJh3LTKu9KUqoxVniy7Ct118lqtButf2X9Tgvb4gnMO7JfjEFfkV6Z5uN&__tn__=EEHH-R
 ---

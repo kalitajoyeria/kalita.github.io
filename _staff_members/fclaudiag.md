@@ -1,4 +1,4 @@
 ---
-name: Claudia Guerrero
-image_path: https://scontent.ftrc2-1.fna.fbcdn.net/v/t1.0-9/10492575_10202992972319994_8446849685809578915_n.jpg?_nc_cat=108&_nc_oc=AQn1Ivy1gwRDfPn-HmB4fBPeu4VDzacHCtMlDFeIyQ7YhZFAvGvvPCOUsgceW2mvgSo&_nc_ht=scontent.ftrc2-1.fna&oh=e60a8433c59550bd1895377229d3baf6&oe=5E0BC2C1
+name: Calaveras con borla
+image_path: https://www.facebook.com/kalitajoyeria/photos/a.1565042500425741/2327092074220776/?type=3&eid=ARBBbCOSRwjAedi0B7ZDaGwUoH4G_X3l5irf0avOXcUGLWpgLnFsB9Bc2tD1SeyDgnh5pqx6G3b2pyoi&__xts__%5B0%5D=68.ARB6_Xjd0XQxKDCmNkVT3iQpSISQXCLXPBYMtbtdzQHXSjPD2tKgOqXXZy2OvllrTvBtMvEBUbXaSWk3IKyhHthgpyCqkkL8MiAjeoPScgdB89yg67zVQl_a-Yt1i4yys1shFq-sUg0nCTgfDFMvZED4VGZxxWwP0q0GGp-F_2DhhhKcCYbVXN-0kWOXkVHY2O7Thq5t-YEEpP4UsxbcH-aPrgXDhABt2aLrZPM3e9SRLHOrg8D3ZeAkKkatZfo09Be6IfqSiZdFIDa1TQ1GfvHTq1cILwMFBAqoRp5L-csf53yOsZGL3rqlO3d9SBnAVa34BvNub76sHQA-Op5x1nI2NjAC&__tn__=EEHH-R
 ---

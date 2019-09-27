@@ -1,4 +1,4 @@
 ---
 name: Bordado pequeño
-image_path: https://www.facebook.com/kalitajoyeria/photos/a.1565042500425741/2327961827467134/?type=3&eid=ARBlwa5DAOOjn2sqwbKzQPRN7SJ6pzLFc7SJo1aL22PvfD5Dpu1eLQx1DSvm_XKsEKpzDydjdqSkvFP7&__xts__%5B0%5D=68.ARC3CHweqFQONjncp8gfBiYomaRHcoyx7Rw89pVW7m2dAt2h2asrQNFJCamI91XPQa6nQf_S5KSE8J-tUA9ET7NQT9KngZRPR8B4erV-hm1PF5QDRkLKhDQ45KIMZ6FIdl_cTL5uBDo8Z1QdJ4dcS5GNPE0eJHY3InuYHWIlcIhfa2map5VgGrXYpp2bDzNC9Pee9O1FxyFfJkIB5DVNhgaFQHzhJn-0lRjkXapb5jx5qiSQOb1N0cVMf9RlNtKU8FtXh_4oekF588iIMinVy9YELcddsUtSzH--TIGVZacV5Ped6IS576K8hjUofBTjhbgTGCo78RYea2OlImKYKJ1z_410&__tn__=EEHH-R
+image_path: https://kalitajoyeria.com/imakal/foto1.jpg
 ---

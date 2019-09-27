@@ -1,4 +1,4 @@
 ---
 name: Bordado cuadrado
-image_path: https://www.facebook.com/kalitajoyeria/photos/a.1565042500425741/2327806690815981/?type=3&eid=ARCDUhxYAAt0fsuYmvt7xOL2rHlKM7mfexZzBVO0kfn7GvxMOaJZ-0OfUusDU689_1-dx99MuYzfKdbh&__xts__%5B0%5D=68.ARCbfbkI5szCjuczXXJI8EMLlo8ePP8MizWOdLIUK3i_SGRVpRfsMWJeFid-mHrsvb8eDU8DEVbGMakweJowYzSX-UP6BwtPgG-f9o0nxRNIEX6hVRjEy08TVRR14BjEDLkdv_ZpGRU2ji86CCIU_SoHy6myM-UCvuFmI8d8BwTXy73OzTyqkXguUJl9gURYnCh2SVa54YRbHzX-VRDRjsdsRn7_AIEPq8J--09rq37bBhE4zdsl0xNzL7NuXoz5OO4jQ4OeDK7CHjy8835Ne3ig5RRO3zl7FOBiJh3LTKu9KUqoxVniy7Ct118lqtButf2X9Tgvb4gnMO7JfjEFfkV6Z5uN&__tn__=EEHH-R
+image_path: https://kalitajoyeria.com/imakal/foto2.jpg
 ---

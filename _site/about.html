@@ -9,9 +9,8 @@ hero: Nuestra historia
 	{% for person in site.staff_members %}
 		<li>
 			<div class="staff-image" style="background-image: url({% include relative-src.html src=person.image_path %})"></div>
-                        <div class="name">{{ person.description }}</div>
 			<div class="name">{{ person.name }}</div>
-
+                        <div class="position">{{ person.position }}</div>
 		</li>
 	{% endfor %}
 </ul>

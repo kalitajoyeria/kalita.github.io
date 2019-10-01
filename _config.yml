@@ -33,6 +33,9 @@ collections:
     _hide_content: true
     output: true
     _icon: shopping_cart
+  posts:
+    _hide_content: true
+    _icon: account_circle
 
 permalink: pretty
 

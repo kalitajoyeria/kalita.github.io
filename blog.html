@@ -8,7 +8,7 @@ hero: Blog
 <ul>
   {% for post in site.posts %}
     <li>
-                        <div class="name"><h2><a href="{{ post.url }}">{{ post.title }}</a></h2></div>
+                        <div class="name"><a href="{{ post.url }}">{{ post.title }}</a></div>
 			<div class="name">{{ post.excerpt}}</div>
   </li>
   {% endfor %}

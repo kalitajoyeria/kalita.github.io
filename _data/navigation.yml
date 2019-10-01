@@ -11,6 +11,6 @@
   new_window: false
   highlight: false
 - name: Blog
-  link: /blog.html
+  link: /blog/
   new_window: false
   highlight: false

@@ -4,7 +4,7 @@ description_markdown: >-
 
   
 garment_type: top
-price: '430.00'
+price: '400.00'
 sku: calaveraborla
 description: calavera calada con borla
 stock: 1

@@ -4,7 +4,7 @@ description_markdown: >-
 
   
 garment_type: top
-price: '370.00'
+price: '360.00'
 sku: calavera
 description: calavera calada
 stock: 3

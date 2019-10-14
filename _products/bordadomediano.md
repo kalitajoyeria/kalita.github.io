@@ -4,7 +4,7 @@ description_markdown: >-
 
   
 garment_type: top
-price: '430.00'
+price: '415.00'
 sku: bordadomediano
 description: bordado mediano
 stock: 2

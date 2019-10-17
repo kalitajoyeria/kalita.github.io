@@ -1,12 +1,12 @@
 ---
 name: Bordado mediano
 description_markdown: >-
-
+  4.2 x 4.2 cm2.
   
 garment_type: top
 price: '415.00'
 sku: bordadomediano
-description: 4.2 x 4.2 cm2
+description: Bordado mediano
 stock: 2
 sizes:
    - Medium

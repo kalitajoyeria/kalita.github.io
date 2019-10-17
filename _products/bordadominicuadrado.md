@@ -1,12 +1,13 @@
 ---
 name: Bordado mini escuadra
 description_markdown: >-
+  2.3 x 2.3 cm2.
 
   
 garment_type: top
 price: '265.00'
 sku: bordadominicuadrado
-description: 2.3 x 2.3 cm2
+description: Bordado mini cuadrado
 stock: 2
 sizes:
     - Medium

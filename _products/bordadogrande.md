@@ -1,10 +1,12 @@
 ---
 name: Bordado grande
 description_markdown: >-
+  5.6 x 5.6 cm2.
+
 garment_type: top
 price: '460.00'
 sku: bordadogrande
-description: 5.6 x 5.6 cm2
+description: Bordado grande
 stock: 5
 sizes:
   - Medium

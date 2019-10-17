@@ -1,12 +1,12 @@
 ---
-name: Cuadrillé de bordado mediano
+name: Bordado mediano
 description_markdown: >-
 
   
 garment_type: top
 price: '415.00'
 sku: bordadomediano
-description: bordado mediano
+description: 4.2 x 4.2 cm2
 stock: 2
 sizes:
    - Medium

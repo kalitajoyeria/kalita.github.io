@@ -1,10 +1,10 @@
 ---
-name: Cuadrillé de bordado grande
+name: Bordado grande
 description_markdown: >-
 garment_type: top
 price: '460.00'
 sku: bordadogrande
-description: bordado grande
+description: 5.6 x 5.6 cm2
 stock: 5
 sizes:
   - Medium

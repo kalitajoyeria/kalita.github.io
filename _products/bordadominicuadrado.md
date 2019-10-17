@@ -1,12 +1,12 @@
 ---
-name: Cuadrillé de bordado escuadra
+name: Bordado mini escuadra
 description_markdown: >-
 
   
 garment_type: top
 price: '265.00'
 sku: bordadominicuadrado
-description: bordado mini cuadrado
+description: 2.3 x 2.3 cm2
 stock: 2
 sizes:
     - Medium

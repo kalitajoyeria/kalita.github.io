@@ -125,7 +125,7 @@ blockquote .quote:after { content: close-quote; }
 
 .staff { padding: 0; list-style: none; -webkit-flex-flow: wrap; -moz-flex-flow: wrap; -ms-flex-flow: wrap; flex-flow: wrap; text-align: left; margin: -175px 0 0 0; justify-content: center; }
 
-.staff .name { font-size: 1.2em; margin-top: 20px; }
+.staff .name { font-size: 3rem; margin-top: 20px; }
 
 .staff .position { font-size: 1.3rem; color: #666; }
 

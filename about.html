@@ -7,10 +7,11 @@ hero: Nuestra historia
     top: -185px;"><a href="cloudcannon:collections/_staff_members/" class="btn"><strong>&#9998;</strong> Manage Staff members</a></p>
 <ul class="staff">
 	{% for person in site.staff_members %}
-		
+		<li>
+			<div class="staff-image" style="background-image: url({% include relative-src.html src=person.image_path %})"></div>
 			<div class="name">{{ person.name }}</div>
 			<div class="name">{{ person.position }}</div>
-		
+		</li>
 	{% endfor %}
 </ul>
 

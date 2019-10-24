@@ -5,7 +5,14 @@ hero: Nuestra historia
 
 <p class="editor-link" style="text-align: center; position: relative;
     top: -185px;"><a href="cloudcannon:collections/_staff_members/" class="btn"><strong>&#9998;</strong> Manage Staff members</a></p>
-
+<ul class="staff">
+	{% for person in site.staff_members %}
+		
+			<div class="name">{{ person.name }}</div>
+			<div class="name">{{ person.position }}</div>
+		
+	{% endfor %}
+</ul>
 
 <div class="thirds story-points">
 	<div>

@@ -123,14 +123,6 @@ blockquote .quote:after { content: close-quote; }
 
 .product-list .snipcart-add-item:hover { background: #f5f5f5; color: #000; }
 
-.staff { padding: 0; list-style: none; text-align: left; margin: -100px 0 0 0; justify-content: center; }
-
-.staff .name { font-size: 1.3rem; margin-top: 20px; color: #000000; }
-
-.staff .position { font-size: 1.3rem; color: #666; }
-
-.story-points h3 { font-size: 1.3rem; margin: 0; color: #666; }
-
 .map { height: 499px; border: 1px solid #DDDDDD; border-radius: 3px; }
 
 .contact-box { -webkit-flex-flow: wrap; -moz-flex-flow: wrap; -ms-flex-flow: wrap; flex-flow: wrap; max-width: 1000px; margin: 0 auto 20px auto; padding: 0 0 50px 0; }
